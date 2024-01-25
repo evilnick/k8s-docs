@@ -89,7 +89,7 @@ html_context = {
 
     # Change to the folder that contains the documentation
     # (usually "/" or "/docs/")
-    'github_folder': '/',
+    'github_folder': '/docs/',
 
     # Change to an empty value if your GitHub repo doesn't have issues enabled.
     # This will disable the feedback button and the issue link in the footer.
@@ -105,7 +105,7 @@ html_context = {
 
 # If your project is on documentation.ubuntu.com, specify the project
 # slug (for example, "lxd") here.
-slug = ""
+slug = "k8s"
 
 ############################################################
 ### Redirects
