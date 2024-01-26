@@ -1,9 +1,9 @@
 /*env*/
-/docs/tools/sphinx/venv/
-/docs/tools/sphinx/warnings.txt
-/docs/tools/sphinx/.wordlist.dic
-/docs/tools/sphinx/.doctrees/
-docs/tools/sphinx/node_modules/
+/docs/tools/.sphinx/venv/
+/docs/tools/.sphinx/warnings.txt
+/docs/tools/.sphinx/.wordlist.dic
+/docs/tools/.sphinx/.doctrees/
+/docs/tools/.sphinx/node_modules
 package*.json
 /docs/_build
 .DS_Store

@@ -6,8 +6,8 @@
 SPHINXOPTS    ?= -c . -d .sphinx/.doctrees
 SPHINXBUILD   ?= sphinx-build
 SPHINXDIR     = .sphinx
-SOURCEDIR     = .
-BUILDDIR      = _build
+SOURCEDIR     = ../src/
+BUILDDIR      = ./_build
 VENVDIR       = $(SPHINXDIR)/venv
 PA11Y         = $(SPHINXDIR)/node_modules/pa11y/bin/pa11y.js
 VENV          = $(VENVDIR)/bin/activate

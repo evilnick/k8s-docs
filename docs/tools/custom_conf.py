@@ -19,7 +19,7 @@ import datetime
 ############################################################
 
 # Product name
-project = 'K8s'
+project = 'Canonical K8s'
 author = 'Canonical Group Ltd'
 
 # The title you want to display for the documentation in the sidebar.
@@ -65,7 +65,7 @@ html_context = {
     # For example: "ubuntu.com/lxd" or "microcloud.is"
     # If there is no product website, edit the header template to remove the
     # link (see the readme for instructions).
-    'product_page': 'documentation.ubuntu.com',
+    'product_page': 'ubuntu.com/kubernetes',
 
     # Add your product tag (the orange part of your logo, will be used in the
     # header) to ".sphinx/_static" and change the path here (start with "_static")
@@ -82,7 +82,7 @@ html_context = {
     'mattermost': 'https://chat.canonical.com/canonical/channels/documentation',
 
     # Change to the GitHub URL for your project
-    'github_url': 'https://github.com/canonical/starter-pack',
+    'github_url': 'https://github.com/canonical/k8s-snap',
 
     # Change to the branch for this version of the documentation
     'github_version': 'main',
